@@ -1,0 +1,245 @@
+{
+  "main": {
+    "name": "Abhijeet",
+    "occupation": "Aspiring Developer💻 | Full Stack | SDE | MERN",
+    "description": "Love to create things that matter!!",
+    "image": "profilepic.jpg",
+    "bio": "Hi there! I am Abhijeet Kumar! I've been coding for over 5 years now. As a Full Stack developer, I've worked on many personal projects that help build and solve real world problems. Along the journey I realised my passion existed in creating things that really makes a difference. I really enjoy coding when it comes to learning new technology and concepts. A quick learner and a keen observer defines me the best. Looking forward to climbing mountains ahead!!",
+    "contactmessage": "Get in touch with me over a mail or ring the phone!",
+    "email": "yashsingh461996@gmail.com",
+    "phone": "+91 7903242535",
+    "address": {
+      "street": "Ashram Road, Ward no. 09,",
+      "city": "Raxaul",
+      "state": ",Bihar, India",
+      "zip": "845305"
+    },
+    "website": "https://priceless-fermi-faacae.netlify.app/",
+    "resumedownload": "https://drive.google.com/file/d/1P6HRdVFdr6R64MBkv7YgYNzqnBBH8grF/view?usp=sharing",
+    "social": [
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/channel/UCxD-TA6psmvOkUy8v4t9ZZA",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/yashavee.pred",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/abhijeet-kumar-533645131/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/yashsinghavee/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Abhijeet-Avee",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "LANGUAGES AND TECHNOLOGIES",
+    "education": [
+      {
+        "school": "Guru Govind Singh Indraprastha University - New Delhi",
+        "degree": "Master Of Computer Applications",
+        "graduated": "2019-Current",
+        "description": "Bharati Vidyapeeth's Institute of Computers Applications and Management (BVICAM), New Delhi"
+      },
+      {
+        "school": "L.N. Mishra Institute of Economic Development and Social Change - Magadh University",
+        "degree": "Bachelor of Computer Applications",
+        "graduated": "2015-2018",
+        "description": "Batch Topper, Graduated with Distinction Class - 83%"
+      }
+    ],
+    "work": [
+      {
+        "company": "BVICAM",
+        "title": "Student",
+        "years": "2019-Current",
+        "description": "Currently pursuing my Masters under BVICAM."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Java",
+        "level": "85%",
+        "img": "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+      },
+      {
+        "name": "ReactJs",
+        "level": "95%",
+        "img": "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+      },
+      {
+        "name": "Redux",
+        "level": "88%",
+        "img": "https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" 
+      },
+      {
+        "name": "React Native",
+        "level": "70%",
+        "img": "https://camo.githubusercontent.com/5c92eeb467fd5d2b1ef1c560e3c3c2f758a8d4e03a8136bda7b41a2d3d4a1b59/68747470733a2f2f72656163746e61746976652e6465762f696d672f6865616465725f6c6f676f2e737667" 
+      },
+      {
+        "name": "Firebase",
+        "level": "70%",
+        "img": "https://camo.githubusercontent.com/dd4b2422ed3bfc9da88c43d18550375c66f9584327dff7ecc19315ce50b96f07/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f66697265626173652f66697265626173652d69636f6e2e737667" 
+      },
+      {
+        "name": "Express JS",
+        "level": "65%",
+        "img": "https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" 
+      },
+      {
+        "name": "MongoDB",
+        "level": "70%",
+        "img": "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" 
+      },
+      {
+        "name": "Next JS",
+        "level": "88%",
+        "img": "https://camo.githubusercontent.com/300c2986a53648631c34798554da7cde3779de253b02a15da6bccc59ea9f0317/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f6e6578746a732d332e737667" 
+      },
+      {
+        "name": "Node JS",
+        "level": "66%",
+        "img": "https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" 
+      },
+      {
+        "name": "Postman",
+        "level": "80%",
+        "img": "https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" 
+      },
+      {
+        "name": "C#",
+        "level": "90%",
+        "img": "https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" 
+      },
+      {
+        "name": "ASP.NET",
+        "level": "75%",
+        "img": "https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" 
+      },
+      {
+        "name": "Git",
+        "level": "70%",
+        "img": "https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" 
+      },
+      {
+        "name": "Heroku",
+        "level": "80%",
+        "img": "https://camo.githubusercontent.com/df12cb598044a3f38efc1f45e3580558c324cf8789b79487125044eeebcc4dee/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6865726f6b752f6865726f6b752d69636f6e2e737667" 
+      },
+      {
+        "name": "JavaScript",
+        "level": "80%",
+        "img": "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" 
+      },
+      {
+        "name": "C",
+        "level": "85%",
+        "img": "https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" 
+      },
+      {
+        "name": "C++",
+        "level": "80%",
+        "img": "https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" 
+      },
+      {
+        "name": "Chart.js",
+        "level": "60%",
+        "img": "https://camo.githubusercontent.com/9be0208aa516b4d1976412d27e9f73d851ea253f8ee005a0b600939f841bba8b/68747470733a2f2f7777772e63686172746a732e6f72672f6d656469612f6c6f676f2d7469746c652e737667" 
+      },
+      {
+        "name": "CSS3",
+        "level": "90%",
+        "img": "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" 
+      },
+      {
+        "name": "BootStrap",
+        "level": "88%",
+        "img": "https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+      },
+      {
+        "name": "HTML5",
+        "level": "90%",
+        "img": "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" 
+      },
+      {
+        "name": "Linux",
+        "level": "60%",
+        "img": "https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" 
+      },
+      {
+        "name": "Materialize CSS",
+        "level": "70%",
+        "img": "https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" 
+      },
+      {
+        "name": "MySql",
+        "level": "75%",
+        "img": "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" 
+      },
+      {
+        "name": "Python",
+        "level": "50%",
+        "img": "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" 
+      },
+      {
+        "name": "TailWind CSS",
+        "level": "65%",
+        "img": "https://camo.githubusercontent.com/5734d0669fe22ce04a1cb989a156cd32c379875f6bca56d5210c9432824856d9/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f7461696c77696e646373732f7461696c77696e646373732d69636f6e2e737667" 
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "COVID-19 Tracker (React JS)",
+        "category": "",
+        "image": "COVID19-Tracker.jpg",
+        "url": "https://youtu.be/_Z-DubBBfqU",
+        "live_url": "https://covid-19-tracker-e58b2.web.app/"
+      },
+      {
+        "title": "Netflix-2.0 (React JS)",
+        "category": "",
+        "image": "Netflix-2.0.jpg",
+        "url": "https://youtu.be/1cCORNSgk5U",
+        "live_url": "https://netflix-clone-cf7fc.web.app/"
+      },
+      {
+        "title": "WhatsApp-Next (Next JS)",
+        "category": "",
+        "image": "WhatsApp-Next.jpg",
+        "url": "https://youtu.be/FyjfrLlJN5Q",
+        "live_url": "https://whatsapp-next2.vercel.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "“Excellence is to do a common thing in an uncommon way.”",
+        "user": "Booker T. Washington"
+      },
+      {
+        "text": "HIRE ME, HERE'S WHY!!",
+        "user": "Because of my proven ability to build efficient front-end user interfaces with backend support in line with modern best practices. I am experienced in React Framework as well as NextJS for SSR to develop front-end applications.On the backe-end side of the technology i am learning and progressing on NodeJS as well as ExpressJS aided with MongoDB. I would love the opportunity to use my skills for your required position and believe that i would be able to outperform your expectations. Currently, I am also leaning forward to learn new technologies and excelling in different domains as say React Native for Mobile App Dev."
+      },
+      {
+        "text": "STRENGTHS:",
+        "user": "Positive Attitude, Supreme Communication Skills, Good with time and task management, quick learning ability, a good team player and always focus on the bigger picture."
+      }
+    ]
+  }
+}
